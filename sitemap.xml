@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://JeremyXJ.github.io/project/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/project/project2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/project/project3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/project/project4/</loc>
+  </url>
+  
+  <url>
     <loc>https://JeremyXJ.github.io/tags/algorithm/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
@@ -43,7 +59,63 @@
   </url>
   
   <url>
-    <loc>https://JeremyXJ.github.io/about/about/</loc>
+    <loc>https://JeremyXJ.github.io/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/tags/go/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/tags/golang/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/tags/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/tags/themes/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/post/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/post/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/tags/template/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/tags/jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/post/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/tags/static-site-generator/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -55,11 +127,39 @@
   </url>
   
   <url>
+    <loc>https://JeremyXJ.github.io/tags/bootstrap/</loc>
+  </url>
+  
+  <url>
     <loc>https://JeremyXJ.github.io/categories/</loc>
   </url>
   
   <url>
+    <loc>https://JeremyXJ.github.io/tags/css/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/tags/highlight-js/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/tags/html/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/tags/js/</loc>
+  </url>
+  
+  <url>
     <loc>https://JeremyXJ.github.io/project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/tags/responsive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://JeremyXJ.github.io/tags/syntax-highlighting/</loc>
   </url>
   
 </urlset>
